@@ -9,8 +9,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-</div>
-
 ## About Assignment 2 (BITP3123 DISTRIBUTED APPLICATION DEVELOPMENT) - KioskApp Avengers
 
 Output
@@ -21,14 +19,16 @@ Output
 
 ## Server
 
-1. Server is waiting request from client.
+Server is waiting request from client.
 ![image](https://user-images.githubusercontent.com/44885554/115838752-96d5dd00-a44c-11eb-9c29-7f117699a1a3.png)
 
-2. Success if credit card is correct.
+Success if credit card is correct.
 ![image](https://user-images.githubusercontent.com/44885554/115839174-f8964700-a44c-11eb-8c04-814b6ad36395.png)
 
-3. Fail if credit card is incorrect.
+Fail if credit card is incorrect.
 ![image](https://user-images.githubusercontent.com/44885554/115839029-d43a6a80-a44c-11eb-98ed-ea4cdcc9d26d.png)
 
-4. Server will always be running, unless it is deactivated.
+Server will always be running, unless it is deactivated.
 ![image](https://user-images.githubusercontent.com/44885554/115839330-1cf22380-a44d-11eb-87a1-026027f31dea.png)
+
+</div>
