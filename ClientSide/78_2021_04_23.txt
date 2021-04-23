@@ -1,0 +1,5 @@
+Order Id: 78
+Item: 
+1. McChicken	
+2. Chocolate Sundae
+Total: RM28.45
