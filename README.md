@@ -13,8 +13,6 @@
 
 Output
 
-</div>
-
 ## Client
 
 - Kiosk
@@ -40,3 +38,5 @@ Output
 
 ## YouTube Link for system demo
 https://youtu.be/f3MSotV5BMs
+
+</div>
