@@ -15,8 +15,7 @@ Output
 
 ## Client
 
-- Kiosk
-- ![image](https://user-images.githubusercontent.com/44885554/115841496-6f344400-a44f-11eb-8fa2-398c2bdef242.png)
+![image](https://user-images.githubusercontent.com/44885554/115841496-6f344400-a44f-11eb-8fa2-398c2bdef242.png)
 
 ## Server
 
@@ -34,7 +33,7 @@ Output
 
 ## Reciept With Overall Success Process
 
-- ![image](https://user-images.githubusercontent.com/44885554/115841369-4c099480-a44f-11eb-9cc5-a53d30d4ed57.png)
+![image](https://user-images.githubusercontent.com/44885554/115841369-4c099480-a44f-11eb-9cc5-a53d30d4ed57.png)
 
 ## YouTube Link for system demo
 https://youtu.be/f3MSotV5BMs
