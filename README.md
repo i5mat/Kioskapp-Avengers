@@ -9,6 +9,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+</div>
+
 ## About Assignment 2 (BITP3123 DISTRIBUTED APPLICATION DEVELOPMENT) - KioskApp Avengers
 
 Output
@@ -30,5 +32,3 @@ Output
 
 4. Server will always be running, unless it is deactivated.
 ![image](https://user-images.githubusercontent.com/44885554/115839330-1cf22380-a44d-11eb-87a1-026027f31dea.png)
-
-</div>
