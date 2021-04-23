@@ -11,6 +11,8 @@
 
 ## About Assignment 2 (BITP3123 DISTRIBUTED APPLICATION DEVELOPMENT) - KioskApp Avengers
 
+</div>
+
 Output
 
 ## Client
@@ -30,5 +32,3 @@ Fail if credit card is incorrect.
 
 Server will always be running, unless it is deactivated.
 ![image](https://user-images.githubusercontent.com/44885554/115839330-1cf22380-a44d-11eb-87a1-026027f31dea.png)
-
-</div>
