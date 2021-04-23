@@ -22,7 +22,7 @@ Output
 ## Server
 
 - Server is waiting request from client.
-![image](https://user-images.githubusercontent.com/44885554/115838752-96d5dd00-a44c-11eb-9c29-7f117699a1a3.png)
+- ![image](https://user-images.githubusercontent.com/44885554/115838752-96d5dd00-a44c-11eb-9c29-7f117699a1a3.png)
 
 Success if credit card is correct.
 ![image](https://user-images.githubusercontent.com/44885554/115839174-f8964700-a44c-11eb-8c04-814b6ad36395.png)
