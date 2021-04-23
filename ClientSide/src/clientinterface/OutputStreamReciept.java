@@ -7,7 +7,7 @@ import java.util.Iterator;
 
 public class OutputStreamReciept {
 
-	public void generateReceipt(int orderId, String dateTime, ArrayList<String> menuList, float totalOrder) {
+	public void generateReceipt(int orderId, String dateTime, ArrayList<String> menuList, float totalOrder, int quantity) {
 		
 		// Declaration of target storage
 		String targetStorage = String.valueOf(orderId)+"_"+dateTime+".txt";
@@ -23,6 +23,7 @@ public class OutputStreamReciept {
 				out.println(String.valueOf(i) + ". " + itr.next());
 			}  
 			out.println("Total: RM" + String.valueOf(totalOrder));
+			out.println("Total Quantity: " + String.valueOf(quantity) + " items.");
 	         
 		} catch (Exception e) {
 
