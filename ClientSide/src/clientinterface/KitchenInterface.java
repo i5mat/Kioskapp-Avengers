@@ -95,7 +95,7 @@ public class KitchenInterface {
 			resultset = statement.executeQuery(sql);
 			
 			order = 0;
-			int i = 0;
+			int i = 0, quantity = 0;
 			
 			//receipt generation
 			OutputStreamReciept osr = new OutputStreamReciept();
@@ -112,7 +112,7 @@ public class KitchenInterface {
 			  OrderIdReceipt = resultset.getInt("orders");
 			  int id = i;
 			  String item  = resultset.getString("ItemProduct");
-			  int quantity = resultset.getInt("Quantity");
+			  quantity = resultset.getInt("Quantity");
 			  totalOrder = resultset.getFloat("TotalAmount");
 			  order = resultset.getInt("Orders");
               itemprod.setName(item);
@@ -121,7 +121,7 @@ public class KitchenInterface {
               list1.addElement(String.valueOf(id) +"  "+ " ITEM: " + itemprod.getName()+" "+ "QUANTITY: " + String.valueOf(quantity));
 			}
 			
-			osr.generateReceipt(OrderIdReceipt, dtf.format(now), recieptMenu, totalOrder);
+			osr.generateReceipt(OrderIdReceipt, dtf.format(now), recieptMenu, totalOrder, quantity);
 			
 			label1.setText(String.valueOf(order));
 			return dm;
