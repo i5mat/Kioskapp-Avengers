@@ -109,7 +109,7 @@ public class KitchenInterface {
 			while (resultset.next())
 			{
 			  i++;
-			  OrderIdReceipt = resultset.getInt("OrderedItemId");
+			  OrderIdReceipt = resultset.getInt("orders");
 			  int id = i;
 			  String item  = resultset.getString("ItemProduct");
 			  int quantity = resultset.getInt("Quantity");
