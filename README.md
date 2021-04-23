@@ -17,7 +17,8 @@ Output
 
 ## Client
 
-
+- Kiosk
+- ![image](https://user-images.githubusercontent.com/44885554/115839991-cafdcd80-a44d-11eb-8e6d-85d79ebda6ed.png)
 
 ## Server
 
